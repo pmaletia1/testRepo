@@ -1,1 +1,2 @@
 This is file 2 and commit 1
+Commit 2
